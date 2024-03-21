@@ -1,0 +1,27 @@
+[
+    {
+        "Title": "mubile1",
+        "Category": "others",
+        "price": "20000"
+    },
+    {
+        "Title": "mubile2",
+        "Category": "others",
+        "price": "20000"
+    },
+    {
+        "Title": "mango",
+        "Category": "food",
+        "price": "60"
+    },
+    {
+        "Title": "banana",
+        "Category": "food",
+        "price": "500"
+    },
+    {
+        "Title": "coconat",
+        "Category": "food",
+        "price": "120"
+    }
+]
